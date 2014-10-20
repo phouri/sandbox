@@ -6,7 +6,8 @@
   "bugs": "https://github.com/gf3/sandbox/issues",
   "contributors": [
     "Bradley Meck <bradley.meck@gmail.com>",
-    "Dominic Tarr (http://cyber-hobo.blogspot.com)"
+    "Dominic Tarr (http://cyber-hobo.blogspot.com)",
+    "Pini Houri <pini.h@dynamicyield.com>"
   ],
   "version": "0.8.6",
   "main": "./lib/sandbox",
